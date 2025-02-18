@@ -41,6 +41,10 @@ h1 {
     height: 3rem;
 }
 
+.logo:hover {
+    scale: 1.05;
+}
+
 main {
     display: flex;
     width: 100%;
